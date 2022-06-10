@@ -5,3 +5,11 @@
 <br>
 <h3>Todo es posible si tienes ganas :)</h3>
 
+<b>Idiomas</b>
+<br>
+· Inglés
+· Francés
+· Italiano
+· Catalán
+· Euskera
+· Castellano
