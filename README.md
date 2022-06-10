@@ -8,8 +8,13 @@
 <b>Idiomas</b>
 <br>
 · Inglés
+<br>
 · Francés
+<br>
 · Italiano
+<br>
 · Catalán
+<br>
 · Euskera
+<br>
 · Castellano
