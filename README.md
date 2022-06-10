@@ -5,7 +5,7 @@
 <br>
 <h3>Todo es posible si tienes ganas :)</h3>
 
-<b>Idiomas</b>
+<b><u>Idiomas</u></b>
 <br><br>
 · Inglés
 <br>
