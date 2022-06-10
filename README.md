@@ -6,7 +6,7 @@
 <h3>Todo es posible si tienes ganas :)</h3>
 
 <b>Idiomas</b>
-<br>
+<br><br>
 · Inglés
 <br>
 · Francés
