@@ -4,9 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kay-nicte&show_icons=true&theme=gruvbox)
 <br>
 <h3>Todo es posible si tienes ganas :)</h3>
-
-<b><u>Idiomas</u></b>
-<br><br>
+<hr>
+<h4>Idiomas</h4>
 · Inglés
 <br>
 · Francés
